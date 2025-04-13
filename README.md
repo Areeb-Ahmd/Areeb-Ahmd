@@ -1,9 +1,9 @@
 # Hi, I’m Areeb Ahmad 👋
   
 - 🎓 Passionate about **Computer Science**, with a keen interest in  
-**Data Science**, **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**
+**Data Science**, **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing.**
 - 📊 I’m currently learning SQL, Tableau and Power BI.
-- 🧠 Exploring real-world AI applications 
+- 🧠 Exploring real-world AI applications.
 - 🤝 Looking to collaborate on projects related to Data Science and Machine Learning.
 
 Feel free to reach out to me at [my mail](mailto:ahmad.syedareeb7@gmail.com) or connect on [linkedin](https://www.linkedin.com/in/areeb-ahmad7/)
@@ -26,8 +26,7 @@ Feel free to reach out to me at [my mail](mailto:ahmad.syedareeb7@gmail.com) or 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D6CB4?style=for-the-badge) 
 
 ### 🛠 Development Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 

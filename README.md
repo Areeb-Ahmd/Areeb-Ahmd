@@ -19,7 +19,7 @@ Feel free to reach out to me at [my mail](mailto:ahmad.syedareeb7@gmail.com) or 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 📚 Software, Frameworks, and Libraries  
+### 📚 Frameworks, and Libraries  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)

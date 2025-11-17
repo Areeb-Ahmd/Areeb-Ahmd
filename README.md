@@ -1,8 +1,7 @@
 # Hi, I’m Areeb Ahmad 👋
   
 - 🎓 Passionate about **Computer Science**, with a keen interest in  
-**Data Science**, **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing.**
-- 📊 I’m currently learning SQL, Tableau and Power BI.
+**Data Science**, **Artificial Intelligence**, **Machine Learning**, and **Deep Learning.**
 - 🧠 Exploring real-world AI applications.
 - 🤝 Looking to collaborate on projects related to Data Science and Machine Learning.
 

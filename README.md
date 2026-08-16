@@ -27,8 +27,10 @@
 
 **Languages**
 
+<p>
 <img src="https://skillicons.dev/icons?i=py,html,css" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 **GenAI & LLM Frameworks**
 
@@ -42,20 +44,25 @@
 
 **ML & Data Libraries**
 
+<p>
 <img src="https://skillicons.dev/icons?i=sklearn" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
 <img src="https://img.shields.io/badge/Seaborn-388E9E?style=flat-square" />
+</p>
 
 **Backend & Web**
 
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
+</p>
 
 **Databases, Vector Stores & Caching**
 
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-121212?style=flat-square" />
@@ -63,15 +70,20 @@
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/AstraDB-3B1E54?style=flat-square" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+</p>
 
 **MLOps & Monitoring**
 
+<p>
 <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,prometheus,grafana" />
+</p>
 
 **Development Tools**
 
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 

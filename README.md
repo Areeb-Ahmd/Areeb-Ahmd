@@ -117,10 +117,9 @@
 
 ### Featured Projects
 
-<br>
+#### [StockMind](https://github.com/Areeb-Ahmd/StockMind)
+Agentic stock market research assistant with multi-step reasoning over live financial data and automatic LLM failover.
 
-<h4><a href="https://github.com/Areeb-Ahmd/StockMind">StockMind</a></h4>
-<p>Agentic stock market research assistant with multi-step reasoning over live financial data and automatic LLM failover.</p>
 <p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -131,10 +130,9 @@
 <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-<br>
+#### [ShopBuddy](https://github.com/Areeb-Ahmd/ShopBuddy)
+RAG-based e-commerce support portal that answers product questions from real customer reviews with grounded, cited responses.
 
-<h4><a href="https://github.com/Areeb-Ahmd/ShopBuddy">ShopBuddy</a></h4>
-<p>RAG-based e-commerce support portal that answers product questions from real customer reviews with grounded, cited responses.</p>
 <p>
 <img src="https://img.shields.io/badge/LangChain_LCEL-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
@@ -145,10 +143,9 @@
 <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
-<br>
+#### [Habitalytics](https://github.com/Areeb-Ahmd/Habitalytics-DataDrivenRealty)
+Real estate analytics platform with a price-prediction model (R² = 0.90) and a content-based property recommender.
 
-<h4><a href="https://github.com/Areeb-Ahmd/Habitalytics-DataDrivenRealty">Habitalytics</a></h4>
-<p>Real estate analytics platform with a price-prediction model (R² = 0.90) and a content-based property recommender.</p>
 <p>
 <img src="https://img.shields.io/badge/Random_Forest-013243?style=flat-square" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -157,8 +154,6 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
 </p>
-
-<br>
 
 More projects on my [GitHub](https://github.com/Areeb-Ahmd?tab=repositories).
 

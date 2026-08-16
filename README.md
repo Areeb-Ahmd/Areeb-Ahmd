@@ -27,63 +27,91 @@
 
 **Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=py,html,css" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br>Python</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br>HTML</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS</td>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=SQL&background=4479A1&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="SQL"/><br>SQL</td>
+</tr>
+</table>
 
 **GenAI & LLM Frameworks**
 
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Unsloth-FF6B00?style=flat-square" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/><br>LangChain</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph"/><br>LangGraph</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Google Gemini"/><br>Gemini</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/><br>Hugging Face</td>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Un&background=FF6B00&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="Unsloth"/><br>Unsloth</td>
+</tr>
+</table>
 
 **ML & Data Libraries**
 
-<p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-388E9E?style=flat-square" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/><br>Scikit-learn</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/><br>NumPy</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/><br>Pandas</td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/><br>Matplotlib</td>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Sb&background=388E9E&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="Seaborn"/><br>Seaborn</td>
+</tr>
+</table>
 
 **Backend & Web**
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br>FastAPI</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/><br>Streamlit</td>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=BS&background=4B8BBE&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="BeautifulSoup"/><br>BeautifulSoup</td>
+</tr>
+</table>
 
 **Databases, Vector Stores & Caching**
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-121212?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" />
-<img src="https://img.shields.io/badge/AstraDB-3B1E54?style=flat-square" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/><br>SQLite</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br>Redis</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="48" height="48" alt="Qdrant"/><br>Qdrant</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB"/><br>DuckDB</td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Pc&background=000000&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="Pinecone"/><br>Pinecone</td>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Ch&background=6B46C1&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="ChromaDB"/><br>ChromaDB</td>
+<td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Fs&background=4B8BBE&color=fff&size=128&bold=true&rounded=true" width="48" height="48" alt="FAISS"/><br>FAISS</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/datastax/3B1E54" width="48" height="48" alt="AstraDB (DataStax)"/><br>AstraDB</td>
+</tr>
+</table>
 
 **MLOps & Monitoring**
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,prometheus,grafana" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/><br>GCP</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br>Actions</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/><br>Prometheus</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/><br>Grafana</td>
+</tr>
+</table>
 
 **Development Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,selenium" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code</td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/><br>Selenium</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/><br>Jupyter</td>
+</tr>
+</table>
 
 ---
 

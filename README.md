@@ -27,11 +27,11 @@
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,gcp,githubactions,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,docker,gcp,githubactions,git,github,vscode,html,css" />
 
 **Data, ML & Databases**
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,postgres,mysql,sqlite,redis,prometheus,grafana,jupyter,selenium" />
+<img src="https://skillicons.dev/icons?i=sklearn,postgres,mysql,sqlite,redis,prometheus,grafana,selenium" />
 
 **GenAI & LLM Tooling**
 
@@ -47,20 +47,58 @@
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/AstraDB-3B1E54?style=flat-square" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
 ### Featured Projects
 
-**[StockMind](https://github.com/Areeb-Ahmd/StockMind)** — Agentic stock market research assistant with multi-step reasoning over live financial data and automatic LLM failover.
-`LangGraph` `LangChain` `Pinecone (RAG)` `Polygon.io` `Tavily` `FastAPI` `Streamlit` `Docker Compose` `Cloud Run` `GitHub Actions`
+<br>
 
-**[ShopBuddy](https://github.com/Areeb-Ahmd/ShopBuddy)** — RAG-based e-commerce support portal that answers product questions from real customer reviews with grounded, cited responses.
-`LangChain LCEL` `Gemini 2.5 Flash` `AstraDB` `Selenium` `BeautifulSoup` `FastAPI` `Docker` `Cloud Run` `GitHub Actions`
+<h4><a href="https://github.com/Areeb-Ahmd/StockMind">StockMind</a></h4>
+<p>Agentic stock market research assistant with multi-step reasoning over live financial data and automatic LLM failover.</p>
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
 
-**[Habitalytics](https://github.com/Areeb-Ahmd/Habitalytics-DataDrivenRealty)** — Real estate analytics platform with a price-prediction model (R² = 0.90) and a content-based property recommender.
-`Random Forest` `TF-IDF` `Cosine Similarity` `FastAPI` `Streamlit` `Web Scraping`
+<br>
+
+<h4><a href="https://github.com/Areeb-Ahmd/ShopBuddy">ShopBuddy</a></h4>
+<p>RAG-based e-commerce support portal that answers product questions from real customer reviews with grounded, cited responses.</p>
+<p>
+<img src="https://img.shields.io/badge/LangChain_LCEL-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AstraDB-3B1E54?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+<br>
+
+<h4><a href="https://github.com/Areeb-Ahmd/Habitalytics-DataDrivenRealty">Habitalytics</a></h4>
+<p>Real estate analytics platform with a price-prediction model (R² = 0.90) and a content-based property recommender.</p>
+<p>
+<img src="https://img.shields.io/badge/Random_Forest-013243?style=flat-square" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square" />
+</p>
+
+<br>
 
 More projects on my [GitHub](https://github.com/Areeb-Ahmd?tab=repositories).
 
@@ -74,7 +112,7 @@ More projects on my [GitHub](https://github.com/Areeb-Ahmd?tab=repositories).
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-Ahmd&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Areeb-Ahmd&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
